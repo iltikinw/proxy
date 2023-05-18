@@ -1,4 +1,4 @@
-# tinyproxy.c - A tiny concurrent web proxy with caching written in C.
+# tinyproxy.c - A tiny concurrent web proxy with caching.
 Written as part of CMU's Computer Systems Course. Received a 100% grade.
 ## Info on web proxies
 A web proxy acts as an intermediary between client web browsers and server web servers providing web content. When a browser uses a proxy, it contacts the proxy instead of the server; the proxy forwards requests and responses between client and server.
